@@ -1,0 +1,577 @@
+23/11/2021 06:58:27 AM File : 
+Query time : 0.8039751053
+IP:::1SELECT new_title, new_id, new_money, new_han_nop, usc_logo, usc_id, usc_company, usc_alias,usc_create_time,new_alias,new_index,new_thuc,new_city,new_hot FROM new JOIN user_company ON new.new_user_id = user_company.usc_id WHERE 1 AND new_active = 1 AND new_thuc = 1 AND new_han_nop > 1637650706 OR new_hot = 1  ORDER BY new_hot DESC, new_id DESC LIMIT 72 /api_app/searchUV.php?keyword=&nganhnghe=13&tinhthanh=1&page=1&limit=30
+23/11/2021 06:58:30 AM File : 
+Query time : 1.5396251678
+IP:::1SELECT use_id,use_nganh_nghe,use_name,address,exp_years,use_create_time,exp_years,use_job_name,use_city FROM user WHERE use_id <> '' AND use_job_name <> ''  AND FIND_IN_SET('13' , use_nganh_nghe) AND FIND_IN_SET('1' , use_district_job) AND use_show = 1  AND usc_search = 1  ORDER BY use_update_time DESC LIMIT 0,30 /api_app/searchUV.php?keyword=&nganhnghe=13&tinhthanh=1&page=1&limit=30
+23/11/2021 06:58:31 AM File : 
+Query time : 1.1675579548
+IP:::1SELECT count(1) as count FROM user WHERE use_id <> '' AND use_job_name <> ''  AND FIND_IN_SET('13' , use_nganh_nghe) AND FIND_IN_SET('1' , use_district_job) AND use_show = 1  AND usc_search = 1  /api_app/searchUV.php?keyword=&nganhnghe=13&tinhthanh=1&page=1&limit=30
+23/11/2021 06:59:14 AM File : 
+Query time : 2.4798870087
+IP:::1SELECT use_id,use_nganh_nghe,use_name,address,exp_years,use_create_time,exp_years,use_job_name,use_city FROM user WHERE use_id <> '' AND use_job_name <> ''  AND FIND_IN_SET('13' , use_nganh_nghe) AND FIND_IN_SET('1' , use_district_job) AND use_show = 1  AND usc_search = 1  ORDER BY use_update_time DESC LIMIT 0,30 /api_app/searchUV.php?keyword=&nganhnghe=13&tinhthanh=1&page=1&limit=30
+23/11/2021 06:59:16 AM File : 
+Query time : 1.8026890755
+IP:::1SELECT count(1) as count FROM user WHERE use_id <> '' AND use_job_name <> ''  AND FIND_IN_SET('13' , use_nganh_nghe) AND FIND_IN_SET('1' , use_district_job) AND use_show = 1  AND usc_search = 1  /api_app/searchUV.php?keyword=&nganhnghe=13&tinhthanh=1&page=1&limit=30
+23/11/2021 07:02:45 AM File : 
+Query time : 1.2983419895
+IP:::1SELECT use_create_time,gender,use_job_name,use_name,salary,use_district_job,use_update_time,use_id,use_logo,address,use_city,exp_years FROM user WHERE 1 AND use_job_name <> ''  AND use_show = 1 AND usc_search = 1 AND use_city != 0 AND register != 4 ORDER BY use_update_time DESC,use_id DESC LIMIT 0,15 /ung-vien-tim-viec.html
+23/11/2021 07:02:46 AM File : 
+Query time : 1.1666090488
+IP:::1SELECT count(1) FROM user WHERE 1 AND use_job_name <> ''  AND use_show = 1 AND usc_search = 1 AND register != 4 /ung-vien-tim-viec.html
+23/11/2021 07:04:56 AM File : 
+Query time : 1.1656169891
+IP:::1SELECT use_create_time,gender,use_job_name,use_name,salary,use_district_job,use_update_time,use_id,use_logo,address,use_city,exp_years FROM user WHERE 1 AND use_job_name <> ''  AND FIND_IN_SET('91' , use_nganh_nghe) AND FIND_IN_SET('45' , use_district_job) AND use_show = 1 AND usc_search = 1 AND use_city != 0 AND register != 4 ORDER BY use_update_time DESC,use_id DESC LIMIT 0,15 /ung-vien-an-toan-lao-dong-tai-ho-chi-minh-c45l91
+23/11/2021 07:04:57 AM File : 
+Query time : 1.1434779167
+IP:::1SELECT count(1) FROM user WHERE 1 AND use_job_name <> ''  AND FIND_IN_SET('91' , use_nganh_nghe) AND FIND_IN_SET('45' , use_district_job) AND use_show = 1 AND usc_search = 1 AND register != 4 /ung-vien-an-toan-lao-dong-tai-ho-chi-minh-c45l91
+23/11/2021 07:06:51 AM File : 
+Query time : 1.3063528538
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:06:52 AM File : 
+Query time : 1.1659700871
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:06:54 AM File : 
+Query time : 1.1049370766
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:06:55 AM File : 
+Query time : 1.0981020927
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:06:56 AM File : 
+Query time : 1.1159150600
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(2,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:06:57 AM File : 
+Query time : 1.1179759502
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:06:58 AM File : 
+Query time : 1.1092350483
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:06:59 AM File : 
+Query time : 1.1555249691
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:07:00 AM File : 
+Query time : 1.1048750877
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:07:02 AM File : 
+Query time : 1.1191039085
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(2,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:07:21 AM File : 
+Query time : 1.1321079731
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:23 AM File : 
+Query time : 1.1072010994
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:24 AM File : 
+Query time : 1.1441278458
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:26 AM File : 
+Query time : 2.3272979259
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:27 AM File : 
+Query time : 1.1276109219
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(2,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:28 AM File : 
+Query time : 1.1309390068
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:29 AM File : 
+Query time : 1.1487200260
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:31 AM File : 
+Query time : 1.3035440445
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:32 AM File : 
+Query time : 1.2381780148
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:33 AM File : 
+Query time : 1.1383700371
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:34 AM File : 
+Query time : 1.1938710213
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(58,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:36 AM File : 
+Query time : 1.1382920742
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:37 AM File : 
+Query time : 1.2095320225
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:38 AM File : 
+Query time : 1.0989599228
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:39 AM File : 
+Query time : 1.1096260548
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(19,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:40 AM File : 
+Query time : 1.3428990841
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:42 AM File : 
+Query time : 1.1435840130
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:43 AM File : 
+Query time : 1.1092491150
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:44 AM File : 
+Query time : 1.2094759941
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:45 AM File : 
+Query time : 1.0980889797
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:46 AM File : 
+Query time : 1.2093629837
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(58,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:47 AM File : 
+Query time : 1.1542468071
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(2,use_nganh_nghe) OR FIND_IN_SET(12,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:48 AM File : 
+Query time : 1.1071400642
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:07:50 AM File : 
+Query time : 1.1092050076
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/tin-da-dang.html
+23/11/2021 07:27:55 AM File : 
+Query time : 0.5116481781
+IP:::1
+SELECT usc_id,ip_address,usc_company,ip_difference_login,usc_phone,usc_city,usc_district, 
+usc_address,usc_logo,usc_create_time,usc_authentic
+FROM user_company WHERE usc_email = 'nhuy@careerlink.vn' AND usc_pass  = 'c20ad4d76fe97759aa27a0c99bff6710' AND usc_lock = 1 /dang-nhap-nha-tuyen-dung.html
+23/11/2021 07:27:57 AM File : 
+Query time : 1.2709608078
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:27:58 AM File : 
+Query time : 1.1441330910
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:27:59 AM File : 
+Query time : 1.1387259960
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:00 AM File : 
+Query time : 1.1053960323
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:01 AM File : 
+Query time : 1.1760680676
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(2,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:02 AM File : 
+Query time : 1.1136209965
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:04 AM File : 
+Query time : 1.0985319614
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:05 AM File : 
+Query time : 1.1760630608
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:06 AM File : 
+Query time : 1.1490991116
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:07 AM File : 
+Query time : 1.1050198078
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(2,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:47 AM File : 
+Query time : 1.4403100014
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(99,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:49 AM File : 
+Query time : 1.4798438549
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(5,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:50 AM File : 
+Query time : 1.2292449474
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(99,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 07:28:51 AM File : 
+Query time : 1.1854219437
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(5,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+23/11/2021 09:26:16 AM File : 
+Query time : 0.7386929989
+IP:::1SELECT new_title, new_id, new_money, new_han_nop, usc_logo, usc_id, usc_company, usc_alias,usc_create_time,new_alias,new_index,new_thuc,new_city,new_hot FROM new JOIN user_company ON new.new_user_id = user_company.usc_id WHERE 1 AND new_active = 1 AND new_thuc = 1 AND new_han_nop > 1637659575 OR new_hot = 1  ORDER BY new_hot DESC, new_id DESC LIMIT 72 /api_app/del_new.php
+28/11/2021 02:32:11 PM File : 
+Query time : 1.0222620964
+IP:::1SELECT new_title, new_id, new_money, new_han_nop, usc_logo, usc_id, usc_company, usc_alias,usc_create_time,new_alias,new_index,new_thuc,new_city,new_hot FROM new JOIN user_company ON new.new_user_id = user_company.usc_id WHERE 1 AND new_active = 1 AND new_thuc = 1 AND new_han_nop > 1638109929 OR new_hot = 1  ORDER BY new_hot DESC, new_id DESC LIMIT 72 /
+28/11/2021 02:32:12 PM File : 
+Query time : 0.6590588093
+IP:::1SELECT new_title, new_id, new_money, new_han_nop, usc_logo, usc_id, usc_company, usc_alias,usc_create_time,new_city,new_alias,new_index,new_thuc,new_gap FROM new JOIN user_company ON new.new_user_id = user_company.usc_id WHERE 1 AND new_active = 1 AND new_thuc = 1 AND new_han_nop > 1638109929 AND new_han_nop BETWEEN 1638109929 AND 1640701929 OR new_gap = 1 ORDER BY new_gap DESC, new_update_time DESC LIMIT 6 /
+28/11/2021 02:32:12 PM File : 
+Query time : 0.5037930012
+IP:::1SELECT new_title, new_id, new_money, new_han_nop, usc_logo, usc_id, usc_company, usc_alias,usc_create_time,new_city,new_alias,new_index,new_thuc,new_cao FROM new JOIN user_company ON new.new_user_id = user_company.usc_id WHERE 1 AND new_active = 1 AND new_thuc = 1 AND new_han_nop > 1638109929 AND new_money >= 6 OR new_cao = 1 ORDER BY new_cao DESC, new_update_time DESC LIMIT 12 /
+01/12/2021 07:37:09 AM File : 
+Query time : 0.9575538635
+IP:::1SELECT new_title, new_id, new_money, new_han_nop, usc_logo, usc_id, usc_company, usc_alias,usc_create_time,new_alias,new_index,new_thuc,new_city,new_hot FROM new JOIN user_company ON new.new_user_id = user_company.usc_id WHERE 1 AND new_active = 1 AND new_thuc = 1 AND new_han_nop > 1638344226 OR new_hot = 1  ORDER BY new_hot DESC, new_id DESC LIMIT 72 /
+03/12/2021 07:12:46 AM File : 
+Query time : 0.7937309742
+IP:::1SELECT new_title, new_id, new_money, new_han_nop, usc_logo, usc_id, usc_company, usc_alias,usc_create_time,new_alias,new_index,new_thuc,new_city,new_hot FROM new JOIN user_company ON new.new_user_id = user_company.usc_id WHERE 1 AND new_active = 1 AND new_thuc = 1 AND new_han_nop > 1638515564 OR new_hot = 1  ORDER BY new_hot DESC, new_id DESC LIMIT 72 /
+03/12/2021 07:12:57 AM File : 
+Query time : 1.3135349751
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:12:58 AM File : 
+Query time : 1.2543339729
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:12:59 AM File : 
+Query time : 1.1489081383
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:13:00 AM File : 
+Query time : 1.1155331135
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:13:01 AM File : 
+Query time : 1.1534979343
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:13:03 AM File : 
+Query time : 1.2402000427
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:13:04 AM File : 
+Query time : 1.1538538933
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(91,use_nganh_nghe) OR FIND_IN_SET(1,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:13:05 AM File : 
+Query time : 1.1764919758
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(7,use_nganh_nghe) OR FIND_IN_SET(46,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:13:06 AM File : 
+Query time : 1.1152870655
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(22,use_nganh_nghe) OR FIND_IN_SET(45,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+03/12/2021 07:13:07 AM File : 
+Query time : 1.1151289940
+IP:::1SELECT count(1) FROM user WHERE 1 AND FIND_IN_SET(25,use_nganh_nghe) OR FIND_IN_SET(55,use_district_job) /nha-tuyen-dung/thong-tin-chung.html
+13/12/2021 01:26:20 AM File : 
+Query time : 1.6858808994
+IP:::1UPDATE tbl_paper_size SET `name` = '',`status` = '1',`created_time` = '0',`modify_time` = '1639358778' WHERE 1 AND `id` = '2'  /admin/tai-khoan?action=add&id=2
+14/12/2021 01:45:01 AM File : 
+Query time : 1.6768560410
+IP:::1UPDATE tbl_product SET `id` = '1',`name` = 'MÁY IN HÓA ĐƠN HPRT TP80BE CÓ DRIVER MACBOOK',`image` = 'detail-product.png',`price_old` = '3.729.000',`discount` = '40',`code_product` = 'INRT029',`quantity` = '50',`des_images` = 'detail-product.png,detail-product.png,detail-product.png,detail-product.png',`insurance` = '24',`category` = '1',`manufacturer` = '1',`connector` = '1',`paper_size` = '1',`review_product` = '<p class="pib-title">M&aacute;y in HPRT TP80BE</p>
+
+<p>C&oacute; khả năng in hiệu suất cao với mức gi&aacute; phải chăng. Mang lại bản in chất lượng cao c&ugrave;ng với khả năng in từ điện thoại.</p>
+
+<p>Chất lượng huyền thoại, gi&aacute; cả phải chăng đến kh&ocirc;ng ngờ</p>
+
+<p>M&aacute;y in laze nhỏ m&agrave; c&oacute; v&otilde;, chất lượng vượt trội, nhất qu&aacute;n. Cho ra m&agrave;u đen đậm v&agrave; văn bản cũng như đồ họa sắc n&eacute;t. An t&acirc;m với m&aacute;y in laser c&oacute; hiệu suất cao v&agrave; mức gi&aacute; phải chăng.</p>
+
+<p>Tốc độ in l&ecirc;n đến 20 trang/ph&uacute;t.</p>
+
+<p>Chất lượng in đen (tốt nhất) l&ecirc;n tới tối đa 1.200 x 1.200 dpi</p>
+
+<div class="pib-img"><img alt="" src="../images/item/Rectangle 156.png" /></div>
+
+<p class="pib-title">Thiết kể nhỏ gọn, dễ d&agrave;ng sử dụng</p>
+
+<p>Được thiết kế để vừa với kh&ocirc;ng gian của bạn</p>
+
+<p>Bạn c&oacute; thể đặt chiếc m&aacute;y in nhỏ gọn n&agrave;y ở gần như mọi chỗ.</p>
+
+<p>Dễ d&agrave;ng in tr&ecirc;n thiết bị di động với ứng dụng HP Smart</p>
+
+<p>ược thiết lập đơn giản, in ấn từ điện thoại của bạn với ứng dụng HP Smart.</p>
+
+<p>Dễ d&agrave;ng in từ nhiều loại điện thoại th&ocirc;ng minh v&agrave; m&aacute;y t&iacute;nh bảng.</p>
+
+<p>Dễ d&agrave;ng chia sẻ t&agrave;i nguy&ecirc;n &ndash; truy cập v&agrave; in bằng c&aacute;ch kết nối mạng kh&ocirc;ng d&acirc;y</p>
+
+<div class="pib-img"><img alt="" src="../images/item/Rectangle 157.png" /></div>
+',`cong_nghe` = 'In nhiệt trực tiếp',`do_phan_giai` = '03dpi, 8dots/mm',`kho_in` = '48/76 mm',`toc_do` = '230 mm/second',`kho_giay_in` = '58mm/80mm (±1mm)',`mo_ta` = '',`thuong_hieu` = 'HPRT',`model` = 'TP80BE',`tinh_nang` = 'Công nghệ: In nhiệt trực tiếp
+Độ phân giải: 203dpi, 8dots/mm
+Khổ in: 48/76 mm
+Tốc độ in (Tối đa): 230 mm/second
+Khổ giấy in: 58mm/80mm (±1mm)
+Đường kính cuộn giấy (Tối đa): 83mm (±1mm)
+Ram/Flash: 2Mb/4Mb
+Tự động cắt giấy: Có',`ket_noi` = 'Có Driver cho Macbook - kết nối USB + LAN',`toc_do_in` = 'TP80BE',`kich_co` = '164 (L) x 141 (W) x 127 (H) mm',`trong_luong` = '1.64 kg',`xuat_xu` = 'Trung Quốc',`bao_hanh` = '24 tháng cho toàn bộ thân máy - đầu in - adapter',`modify_time` = '1639446299',`status` = '1' WHERE 1 AND `id` = '1'  /admin/san-pham?action=edit&id=1
+14/12/2021 03:25:46 AM File : 
+Query time : 1.6693251133
+IP:::1UPDATE tbl_product SET `id` = '1',`name` = 'MÁY IN HÓA ĐƠN HPRT TP80BE CÓ DRIVER MACBOOK',`image` = 'detail-product.png',`price_old` = '3.729.000',`discount` = '40',`code_product` = 'INRT029',`quantity` = '50',`des_images` = 'detail-product.png,detail-product.png,detail-product.png,detail-product.png',`insurance` = '24',`category` = '1',`manufacturer` = '1',`connector` = '1',`paper_size` = '1',`review_product` = '<p class="pib-title">M&aacute;y in HPRT TP80BE</p>
+
+<p>C&oacute; khả năng in hiệu suất cao với mức gi&aacute; phải chăng. Mang lại bản in chất lượng cao c&ugrave;ng với khả năng in từ điện thoại.</p>
+
+<p>Chất lượng huyền thoại, gi&aacute; cả phải chăng đến kh&ocirc;ng ngờ</p>
+
+<p>M&aacute;y in laze nhỏ m&agrave; c&oacute; v&otilde;, chất lượng vượt trội, nhất qu&aacute;n. Cho ra m&agrave;u đen đậm v&agrave; văn bản cũng như đồ họa sắc n&eacute;t. An t&acirc;m với m&aacute;y in laser c&oacute; hiệu suất cao v&agrave; mức gi&aacute; phải chăng.</p>
+
+<p>Tốc độ in l&ecirc;n đến 20 trang/ph&uacute;t.</p>
+
+<p>Chất lượng in đen (tốt nhất) l&ecirc;n tới tối đa 1.200 x 1.200 dpi</p>
+
+<div class="pib-img"><img alt="" src="../images/item/Rectangle 156.png" /></div>
+
+<p class="pib-title">Thiết kể nhỏ gọn, dễ d&agrave;ng sử dụng</p>
+
+<p>Được thiết kế để vừa với kh&ocirc;ng gian của bạn</p>
+
+<p>Bạn c&oacute; thể đặt chiếc m&aacute;y in nhỏ gọn n&agrave;y ở gần như mọi chỗ.</p>
+
+<p>Dễ d&agrave;ng in tr&ecirc;n thiết bị di động với ứng dụng HP Smart</p>
+
+<p>ược thiết lập đơn giản, in ấn từ điện thoại của bạn với ứng dụng HP Smart.</p>
+
+<p>Dễ d&agrave;ng in từ nhiều loại điện thoại th&ocirc;ng minh v&agrave; m&aacute;y t&iacute;nh bảng.</p>
+
+<p>Dễ d&agrave;ng chia sẻ t&agrave;i nguy&ecirc;n &ndash; truy cập v&agrave; in bằng c&aacute;ch kết nối mạng kh&ocirc;ng d&acirc;y</p>
+
+<div class="pib-img"><img alt="" src="../images/item/Rectangle 157.png" /></div>
+',`cong_nghe` = 'In nhiệt trực tiếp',`do_phan_giai` = '03dpi, 8dots/mm',`kho_in` = '48/76 mm',`toc_do` = '230 mm/second',`kho_giay_in` = '58mm/80mm (±1mm)',`mo_ta` = '',`thuong_hieu` = 'HPRT',`model` = 'TP80BE',`tinh_nang` = 'Công nghệ: In nhiệt trực tiếp
+Độ phân giải: 203dpi, 8dots/mm
+Khổ in: 48/76 mm
+Tốc độ in (Tối đa): 230 mm/second
+Khổ giấy in: 58mm/80mm (±1mm)
+Đường kính cuộn giấy (Tối đa): 83mm (±1mm)
+Ram/Flash: 2Mb/4Mb
+Tự động cắt giấy: Có',`ket_noi` = 'Có Driver cho Macbook - kết nối USB + LAN',`toc_do_in` = '230 mm/second',`kich_co` = '164 (L) x 141 (W) x 127 (H) mm',`trong_luong` = '1.64 kg',`xuat_xu` = 'Trung Quốc',`bao_hanh` = '24 tháng cho toàn bộ thân máy - đầu in - adapter',`modify_time` = '1639452344',`status` = '1' WHERE 1 AND `id` = '1'  /admin/san-pham?action=edit&id=1
+16/12/2021 01:21:31 AM File : 
+Query time : 1.6693601608
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 4 /may-in-phun-mau-epson-l805-id-4.html
+16/12/2021 01:36:49 AM File : 
+Query time : 1.6669068336
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+16/12/2021 03:52:56 AM File : 
+Query time : 1.6187410355
+IP:::1SELECT * FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 AND id = 4 /may-in-phun-mau-epson-l805-id-4.html
+16/12/2021 09:29:58 AM File : 
+Query time : 0.5924870968
+IP:::1UPDATE tbl_product SET `name` = 'MÁY IN HÓA ĐƠN HPRT TP80BE CÓ DRIVER MACBOOK',`image` = 'detail-product.png',`price_old` = '3.729.000',`discount` = '40',`code_product` = 'INRT029',`quantity` = '43',`des_images` = 'detail-product.png,detail-product.png,detail-product.png,detail-product.png',`insurance` = '24',`category` = '2',`manufacturer` = '4',`connector` = '5,3,2',`paper_size` = '2',`review_product` = '<p class="pib-title">M&aacute;y in HPRT TP80BE</p>
+
+<p>C&oacute; khả năng in hiệu suất cao với mức gi&aacute; phải chăng. Mang lại bản in chất lượng cao c&ugrave;ng với khả năng in từ điện thoại.</p>
+
+<p>Chất lượng huyền thoại, gi&aacute; cả phải chăng đến kh&ocirc;ng ngờ</p>
+
+<p>M&aacute;y in laze nhỏ m&agrave; c&oacute; v&otilde;, chất lượng vượt trội, nhất qu&aacute;n. Cho ra m&agrave;u đen đậm v&agrave; văn bản cũng như đồ họa sắc n&eacute;t. An t&acirc;m với m&aacute;y in laser c&oacute; hiệu suất cao v&agrave; mức gi&aacute; phải chăng.</p>
+
+<p>Tốc độ in l&ecirc;n đến 20 trang/ph&uacute;t.</p>
+
+<p>Chất lượng in đen (tốt nhất) l&ecirc;n tới tối đa 1.200 x 1.200 dpi</p>
+
+<div class="pib-img"><img alt="" src="../images/item/Rectangle 156.png" /></div>
+
+<p class="pib-title">Thiết kể nhỏ gọn, dễ d&agrave;ng sử dụng</p>
+
+<p>Được thiết kế để vừa với kh&ocirc;ng gian của bạn</p>
+
+<p>Bạn c&oacute; thể đặt chiếc m&aacute;y in nhỏ gọn n&agrave;y ở gần như mọi chỗ.</p>
+
+<p>Dễ d&agrave;ng in tr&ecirc;n thiết bị di động với ứng dụng HP Smart</p>
+
+<p>ược thiết lập đơn giản, in ấn từ điện thoại của bạn với ứng dụng HP Smart.</p>
+
+<p>Dễ d&agrave;ng in từ nhiều loại điện thoại th&ocirc;ng minh v&agrave; m&aacute;y t&iacute;nh bảng.</p>
+
+<p>Dễ d&agrave;ng chia sẻ t&agrave;i nguy&ecirc;n &ndash; truy cập v&agrave; in bằng c&aacute;ch kết nối mạng kh&ocirc;ng d&acirc;y</p>
+
+<div class="pib-img"><img alt="" src="../images/item/Rectangle 157.png" /></div>
+',`cong_nghe` = 'In nhiệt trực tiếp',`do_phan_giai` = '03dpi, 8dots/mm',`kho_in` = '48/76 mm',`toc_do` = '230 mm/second',`kho_giay_in` = '58mm/80mm (±1mm)',`mo_ta` = '',`thuong_hieu` = 'HPRT',`model` = 'TP80BE',`tinh_nang` = 'Công nghệ: In nhiệt trực tiếp|Độ phân giải: 203dpi, 8dots/mm|Khổ in: 48/76 mm|Tốc độ in (Tối đa): 230 mm/second|Khổ giấy in: 58mm/80mm (±1mm)|Đường kính cuộn giấy (Tối đa): 83mm (±1mm)|Ram/Flash: 2Mb/4Mb|Tự động cắt giấy: Có',`ket_noi` = 'Có Driver cho Macbook - kết nối USB + LAN',`toc_do_in` = '230 mm/second',`kich_co` = '164 (L) x 141 (W) x 127 (H) mm',`trong_luong` = '1.64 kg',`xuat_xu` = 'Trung Quốc',`bao_hanh` = '24 tháng cho toàn bộ thân máy - đầu in - adapter',`tag` = 'Máy in hóa đơn HPRT',`modify_time` = '1639646997',`status` = '1' WHERE 1 AND `id` = '1'  /admin/san-pham?action=edit&id=1
+17/12/2021 07:08:23 AM File : 
+Query time : 1.6609430313
+IP:::1SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/filter.php
+18/12/2021 06:46:24 AM File : 
+Query time : 1.6294679642
+IP:::1SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /
+22/12/2021 01:15:50 AM File : 
+Query time : 1.6821460724
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 4 /may-in-phun-mau-epson-l805-id-4.html
+22/12/2021 01:16:37 AM File : 
+Query time : 1.7068288326
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+22/12/2021 02:55:34 AM File : 
+Query time : 1.6437849998
+IP:::1SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /
+22/12/2021 06:54:59 AM File : 
+Query time : 1.6157360077
+IP:::1SELECT * FROM `tbl_product` WHERE `id` =6 /gio-hang.html
+22/12/2021 07:44:02 AM File : 
+Query time : 1.7209298611
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 4 /may-in-phun-mau-epson-l805-id-4.html
+22/12/2021 08:29:59 AM File : 
+Query time : 1.6180579662
+IP:::1SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /may-in-phun-mau-epson-l805-id-4.html
+23/12/2021 01:21:22 AM File : 
+Query time : 1.7160060406
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 4 /may-in-kim-epson-lq310-id-4.html
+23/12/2021 01:36:04 AM File : 
+Query time : 1.7262701988
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 4 /may-in-kim-epson-lq310-id-4.html
+23/12/2021 02:00:13 AM File : 
+Query time : 1.7023899555
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 4 /may-in-kim-epson-lq310-id-4.html
+23/12/2021 02:37:04 AM File : 
+Query time : 1.6614000797
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-kim-epson-lq310-id-5.html
+23/12/2021 04:03:38 AM File : 
+Query time : 1.6367290020
+IP:::1SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /may-in-kim-epson-lq310-id-6.html
+23/12/2021 07:27:36 AM File : 
+Query time : 1.6470670700
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+23/12/2021 07:43:18 AM File : 
+Query time : 1.7014248371
+IP:::1INSERT INTO tbl_comments(`id_product`,`parent`,`name`,`email`,`phone`,`gender`,`comment`,`images`,`created_time`,`status`) VALUES ('6','1','Phúc Híp','buiphuc044@gmail.com','0912870820','1','test chức năng trả lời lần 2','','1640245396','0')  /ajax/add_comment.php
+23/12/2021 07:48:43 AM File : 
+Query time : 1.6756908894
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 3 /may-in-laser-trang-den-canon-lbp-2900-id-3.html
+23/12/2021 07:56:40 AM File : 
+Query time : 1.6414990425
+IP:::1SELECT * FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 AND id = 6 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-6.html
+23/12/2021 08:01:33 AM File : 
+Query time : 1.7262711525
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+23/12/2021 08:03:49 AM File : 
+Query time : 1.6849479675
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+23/12/2021 08:13:31 AM File : 
+Query time : 1.7373669147
+IP:::1INSERT INTO tbl_comments(`id_product`,`parent`,`name`,`email`,`phone`,`gender`,`comment`,`images`,`created_time`,`status`) VALUES ('6','0','Phúc Híp','buiphuc044@gmail.com','0912870820','1',' ','','1640247209','0')  /ajax/add_comment.php
+23/12/2021 08:46:52 AM File : 
+Query time : 1.6801230907
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-6.html
+23/12/2021 09:54:25 AM File : 
+Query time : 1.6763980389
+IP:::1INSERT INTO tbl_comments(`id_product`,`parent`,`name`,`email`,`phone`,`gender`,`comment`,`images`,`created_time`,`status`) VALUES ('6','0','Phúc Híp','buiphuc044@gmail.com','0912870820','1',' test cmt 3','','1640253263','0')  /ajax/add_comment.php
+24/12/2021 01:01:43 AM File : 
+Query time : 1.7124180794
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+24/12/2021 01:07:03 AM File : 
+Query time : 1.5949339867
+IP:::1SELECT * FROM `tbl_category` ORDER BY id DESC /may-in-kim-epson-lq310-id-6.html
+24/12/2021 07:56:39 AM File : 
+Query time : 1.3292222023
+IP:::1SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 AND `name` LIKE '%a·%' ORDER BY modify_time DESC limit 5 /ajax/search.php
+25/12/2021 08:28:41 AM File : 
+Query time : 1.6853859425
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+25/12/2021 08:36:15 AM File : 
+Query time : 1.7421178818
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+25/12/2021 08:40:08 AM File : 
+Query time : 1.7113759518
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+25/12/2021 08:58:53 AM File : 
+Query time : 1.6902329922
+IP:192.168.1.53UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+25/12/2021 09:38:10 AM File : 
+Query time : 1.6811499596
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+25/12/2021 09:43:27 AM File : 
+Query time : 1.7370469570
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+25/12/2021 10:11:33 AM File : 
+Query time : 1.6811211109
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+25/12/2021 10:17:00 AM File : 
+Query time : 1.6876947880
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+25/12/2021 10:22:02 AM File : 
+Query time : 1.6988828182
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+26/12/2021 09:59:02 AM File : 
+Query time : 1.6831450462
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+26/12/2021 10:02:02 AM File : 
+Query time : 1.6624848843
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+26/12/2021 10:17:27 AM File : 
+Query time : 1.6646800041
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 5 /may-in-laser-den-trang-hp-laserjet-pro-m12w-t0l46a-id-5.html
+27/12/2021 01:28:36 AM File : 
+Query time : 1.6661758423
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+27/12/2021 01:59:38 AM File : 
+Query time : 1.6410181522
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+27/12/2021 02:16:38 AM File : 
+Query time : 1.6790840626
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+27/12/2021 02:25:22 AM File : 
+Query time : 1.6525280476
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+27/12/2021 02:27:01 AM File : 
+Query time : 1.6950280666
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /may-in-hoa-don-hprt-tp80be-co-driver-macbook-id-1.html
+27/12/2021 03:03:06 AM File : 
+Query time : 0.7885220051
+IP:::1INSERT INTO tbl_comments(`id_product`,`parent`,`name`,`email`,`phone`,`gender`,`comment`,`images`,`created_time`,`status`) VALUES ('5','13','Phúc Híp','buiphuc044@gmail.com','0912870820','1','Hú le','','1640574185','0')  /ajax/add_comment.php
+27/12/2021 04:02:04 AM File : 
+Query time : 1.6991939545
+IP:::1UPDATE tbl_product SET `name` = 'MÁY IN HÓA ĐƠN HPRT TP80BE CÓ DRIVER MACBOOK',`image` = 'detail-product.png',`price_old` = '3.729.000',`discount` = '35',`code_product` = 'INRT029',`quantity` = '42',`des_images` = 'detail-product.png,detail-product.png,detail-product.png,detail-product.png',`insurance` = '24',`category` = '2',`manufacturer` = '4',`connector` = '5,3,2',`paper_size` = '2',`review_product` = '<p class="pib-title">M&aacute;y in HPRT TP80BE</p>
+
+<p>C&oacute; khả năng in hiệu suất cao với mức gi&aacute; phải chăng. Mang lại bản in chất lượng cao c&ugrave;ng với khả năng in từ điện thoại.</p>
+
+<p>Chất lượng huyền thoại, gi&aacute; cả phải chăng đến kh&ocirc;ng ngờ</p>
+
+<p>M&aacute;y in laze nhỏ m&agrave; c&oacute; v&otilde;, chất lượng vượt trội, nhất qu&aacute;n. Cho ra m&agrave;u đen đậm v&agrave; văn bản cũng như đồ họa sắc n&eacute;t. An t&acirc;m với m&aacute;y in laser c&oacute; hiệu suất cao v&agrave; mức gi&aacute; phải chăng.</p>
+
+<p>Tốc độ in l&ecirc;n đến 20 trang/ph&uacute;t.</p>
+
+<p>Chất lượng in đen (tốt nhất) l&ecirc;n tới tối đa 1.200 x 1.200 dpi</p>
+
+<div class="pib-img"><img alt="" src="../images/item/Rectangle 156.png" /></div>
+
+<p class="pib-title">Thiết kể nhỏ gọn, dễ d&agrave;ng sử dụng</p>
+
+<p>Được thiết kế để vừa với kh&ocirc;ng gian của bạn</p>
+
+<p>Bạn c&oacute; thể đặt chiếc m&aacute;y in nhỏ gọn n&agrave;y ở gần như mọi chỗ.</p>
+
+<p>Dễ d&agrave;ng in tr&ecirc;n thiết bị di động với ứng dụng HP Smart</p>
+
+<p>ược thiết lập đơn giản, in ấn từ điện thoại của bạn với ứng dụng HP Smart.</p>
+
+<p>Dễ d&agrave;ng in từ nhiều loại điện thoại th&ocirc;ng minh v&agrave; m&aacute;y t&iacute;nh bảng.</p>
+
+<p>Dễ d&agrave;ng chia sẻ t&agrave;i nguy&ecirc;n &ndash; truy cập v&agrave; in bằng c&aacute;ch kết nối mạng kh&ocirc;ng d&acirc;y</p>
+
+<div class="pib-img"><img alt="" src="../images/item/Rectangle 157.png" /></div>
+',`cong_nghe` = 'In nhiệt trực tiếp',`do_phan_giai` = '03dpi, 8dots/mm',`kho_in` = '48/76 mm',`toc_do` = '230 mm/second',`kho_giay_in` = '58mm/80mm (±1mm)',`mo_ta` = '',`thuong_hieu` = 'HPRT',`model` = 'TP80BE',`tinh_nang` = 'Công nghệ: In nhiệt trực tiếp|Độ phân giải: 203dpi, 8dots/mm|Khổ in: 48/76 mm|Tốc độ in (Tối đa): 230 mm/second|Khổ giấy in: 58mm/80mm (±1mm)|Đường kính cuộn giấy (Tối đa): 83mm (±1mm)|Ram/Flash: 2Mb/4Mb|Tự động cắt giấy: Có',`ket_noi` = 'Có Driver cho Macbook - kết nối USB + LAN',`toc_do_in` = '230 mm/second',`kich_co` = '164 (L) x 141 (W) x 127 (H) mm',`trong_luong` = '1.64 kg',`xuat_xu` = 'Trung Quốc',`bao_hanh` = '24 tháng cho toàn bộ thân máy - đầu in - adapter',`tag` = '1,2,4',`title` = 'MÁY IN HÓA ĐƠN HPRT TP80BE CÓ DRIVER MACBOOK',`description` = '',`keyword` = '',`modify_time` = '1640577723',`status` = '1' WHERE 1 AND `id` = '1'  /admin/san-pham?action=edit&id=1
+27/12/2021 08:47:01 AM File : 
+Query time : 1.6816930771
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+27/12/2021 09:04:17 AM File : 
+Query time : 0.6789309978
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+28/12/2021 01:47:09 AM File : 
+Query time : 1.6491389275
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+28/12/2021 02:10:07 AM File : 
+Query time : 1.7366909981
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 3 /may-in-laser-trang-den-canon-lbp-2900-id-3.html
+28/12/2021 02:17:32 AM File : 
+Query time : 1.6902790070
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 3 /may-in-laser-trang-den-canon-lbp-2900-id-3.html
+28/12/2021 03:00:54 AM File : 
+Query time : 1.6561038494
+IP:192.168.1.53UPDATE `tbl_product` SET view = view + 1 WHERE id = 7 /may-in-kim-epson-lq2190-id-7.html
+28/12/2021 03:02:33 AM File : 
+Query time : 1.7077038288
+IP:192.168.1.53INSERT INTO tbl_comments(`id_product`,`parent`,`name`,`email`,`phone`,`gender`,`comment`,`images`,`created_time`,`status`) VALUES ('7','0','Tuấn nhà tuyển dụng','sexale9822@gameqo.com','0989777655','1',' tuấn','','1640660551','0')  /ajax/add_comment.php
+28/12/2021 06:47:32 AM File : 
+Query time : 1.6747040749
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 4 /may-in-phun-mau-epson-l805-id-4.html
+28/12/2021 07:09:37 AM File : 
+Query time : 1.6611349583
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+28/12/2021 07:39:59 AM File : 
+Query time : 1.6558020115
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+28/12/2021 07:58:11 AM File : 
+Query time : 1.6722209454
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+28/12/2021 08:28:12 AM File : 
+Query time : 1.6822738647
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+28/12/2021 08:47:23 AM File : 
+Query time : 1.7177779675
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+28/12/2021 09:54:42 AM File : 
+Query time : 1.6598489285
+IP:::1SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /may-in-kim-epson-lq310-id-6.html
+28/12/2021 10:35:16 AM File : 
+Query time : 1.7092151642
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+29/12/2021 09:15:59 AM File : 
+Query time : 1.6868739128
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+29/12/2021 09:20:05 AM File : 
+Query time : 1.6908679008
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+29/12/2021 09:36:43 AM File : 
+Query time : 1.6952300072
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+30/12/2021 03:16:04 AM File : 
+Query time : 1.6952381134
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+04/01/2022 03:23:00 AM File : 
+Query time : 1.6669719219
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 1 /hprt-tp80be-co-driver-macbook-id-1.html
+04/01/2022 07:23:38 AM File : 
+Query time : 1.7105679512
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+04/01/2022 07:54:38 AM File : 
+Query time : 1.6409528255
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html
+04/01/2022 08:06:46 AM File : 
+Query time : 1.0275199413
+IP:::1UPDATE `tbl_product` SET view = view + 1 WHERE id = 6 /may-in-kim-epson-lq310-id-6.html

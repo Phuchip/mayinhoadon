@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule /classes/charge_money/baokim/ /classes/charge_money/baokim/index.php [L]

@@ -1,0 +1,60 @@
+RewriteEngine On    
+RewriteBase / 
+
+<IfModule mod_rewrite.c>
+    #RewriteEngine On
+    #RewriteCond %{HTTPS} off
+    #RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    #RewriteCond %{HTTP_HOST} www\.(.+)$ [NC]
+    #RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+RewriteEngine on    
+RewriteBase /
+RewriteRule  ^$ /home/index.php
+RewriteRule  ^admin$ /admin/index.php
+
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+#detail
+RewriteRule ^([^/]+)-id-([0-9]+).html /home/detail.php?id=$2&%{QUERY_STRING} [NE,L]
+
+#cart
+RewriteRule ^gio-hang.html /home/cart.php
+
+#payment
+RewriteRule ^thanh-toan.html /home/payment.php
+RewriteRule ^test.html /home/test.php
+
+#search
+RewriteRule ^tim-kiem /home/search.php?%{QUERY_STRING} [NE,L]
+RewriteRule ^([^/]+)-ID-([0-9]+).html /home/search.php?id=$2&%{QUERY_STRING} [NE,L]
+
+#filter
+RewriteRule ^tat-ca-may-in-hoa-don.html /home/filter.php
+
+#404
+# RewriteRule ^404 /home/404.php
+
+#login admin
+RewriteRule ^admin/login$ /admin/login.php
+
+#logout admin
+RewriteRule ^admin/logout$ /admin/modules/security/logout.php
+
+#admin product
+RewriteRule ^admin/san-pham$ /admin/modules/san_pham/product.php
+RewriteRule ^admin/hang-san-xuat$ /admin/modules/hang_sx/hang_sx.php
+RewriteRule ^admin/loai-may-in$ /admin/modules/loai_may/loai_may.php
+RewriteRule ^admin/cong-ket-noi$ /admin/modules/cong_ket_noi/cong_ket_noi.php
+RewriteRule ^admin/kho-giay$ /admin/modules/kho_giay/kho_giay.php
+RewriteRule ^admin/tai-khoan$ /admin/modules/tai_khoan/tai_khoan.php
+RewriteRule ^admin/thong-tin$ /admin/modules/thong_tin/thong_tin.php
+RewriteRule ^admin/doi-mat-khau$ /admin/modules/thong_tin/doi_mat_khau.php
+RewriteRule ^admin/404$ /admin/404.php
+
+#admin đơn hàng
+RewriteRule ^admin/don-hang$ /admin/modules/don_hang/don_hang.php?%{QUERY_STRING} [NE,L]
+RewriteRule ^admin/binh-luan$ /admin/modules/binh_luan/binh_luan.php?%{QUERY_STRING} [NE,L]
+RewriteRule ^admin/new-letter$ /admin/modules/new_letter/new_letter.php?%{QUERY_STRING} [NE,L]

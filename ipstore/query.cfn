@@ -1,0 +1,1882 @@
+27/05/2019 06:57:46 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /
+27/05/2019 06:57:48 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /
+27/05/2019 06:57:48 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /
+27/05/2019 06:57:49 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /
+27/05/2019 06:57:50 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2018/11/07/ajw1541555092.jpg
+27/05/2019 06:57:51 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2018/11/07/ajw1541555092.jpg
+27/05/2019 06:57:51 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2018/11/07/ajw1541555092.jpg
+27/05/2019 06:57:51 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2018/09/27/xcx1558582215.jpg
+27/05/2019 06:57:51 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2018/09/27/xcx1558582215.jpg
+27/05/2019 06:57:52 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2018/09/27/xcx1558582215.jpg
+27/05/2019 06:57:52 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2018/10/12/jcy1539310664.jpg
+27/05/2019 06:57:52 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2018/10/12/jcy1539310664.jpg
+27/05/2019 06:57:52 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2018/10/12/jcy1539310664.jpg
+31/05/2019 11:50:07 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2018/11/07/ajw1541555092.jpg
+31/05/2019 11:50:07 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2019/03/02/vle1551505247.jpg
+31/05/2019 11:50:07 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2018/11/07/ajw1541555092.jpg
+31/05/2019 11:50:07 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2019/03/02/vle1551505247.jpg
+31/05/2019 11:50:07 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2018/11/07/ajw1541555092.jpg
+31/05/2019 11:50:07 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2019/05/23/kkf1558582180.jpg
+31/05/2019 11:50:07 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2018/10/09/art1539051862.jpg
+31/05/2019 11:50:07 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2019/05/23/kkf1558582180.jpg
+31/05/2019 11:50:07 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2018/10/09/art1539051862.jpg
+31/05/2019 11:50:08 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2018/10/09/art1539051862.jpg
+31/05/2019 11:50:08 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2019/05/23/kkf1558582180.jpg
+31/05/2019 11:50:08 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2019/05/23/zzf1558576470.jpg
+31/05/2019 11:50:08 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2018/10/12/jcy1539310664.jpg
+31/05/2019 11:50:08 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2018/10/12/jcy1539310664.jpg
+31/05/2019 11:50:08 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2019/05/23/zzf1558576470.jpg
+31/05/2019 11:50:08 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2018/10/12/jcy1539310664.jpg
+31/05/2019 11:50:08 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2019/05/23/zzf1558576470.jpg
+31/05/2019 11:50:08 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2019/04/02/tfy1554203350.jpg
+31/05/2019 11:50:08 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2018/10/04/qtk1558578957.jpg
+31/05/2019 11:50:09 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2018/10/04/qtk1558578957.jpg
+31/05/2019 11:50:09 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2019/04/02/tfy1554203350.jpg
+31/05/2019 11:50:09 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2019/04/02/tfy1554203350.jpg
+31/05/2019 11:50:09 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2018/10/04/qtk1558578957.jpg
+31/05/2019 11:50:09 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /pictures/2018/09/14/ega1536894619.jpg
+31/05/2019 11:50:09 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /pictures/2018/09/14/ega1536894619.jpg
+31/05/2019 11:50:09 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /pictures/2018/09/14/ega1536894619.jpg
+31/05/2019 11:50:09 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /favicon.ico
+31/05/2019 11:50:09 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /favicon.ico
+31/05/2019 11:50:09 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /favicon.ico
+31/05/2019 11:50:14 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /home/tuyendungthue.php
+31/05/2019 11:50:14 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /home/tuyendungthue.php
+31/05/2019 11:50:14 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /home/tuyendungthue.php
+03/06/2019 04:37:23 AM  
+ SELECT cat_id,cat_name FROM categories_multi WHERE cat_active = 1 AND cat_parent_id = 0 ORDER BY cat_id DESC /
+03/06/2019 04:37:24 AM  
+ SELECT cit_id,cit_name,cit_count,cit_count_vl FROM city ORDER BY cit_count DESC,cit_name ASC /
+03/06/2019 04:37:24 AM  
+ SELECT * FROM seo_tt WHERE name_page = 'home' /
+03/06/2019 04:37:24 AM  
+ SELECT new.new_id,usc_id,new_money,new_city,new_cap_bac,new_create_time,usc_create_time,usc_logo,usc_company,new_title,new_nganh FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id ORDER BY new.new_update_time DESC LIMIT 0,30 /
+03/06/2019 04:37:25 AM  
+ SELECT count(1) FROM new STRAIGHT_JOIN user_company ON new_user_id = user_company.usc_id /
+17/11/2021 07:06:52 AM  
+ SELECT usc_company FROM user_company WHERE usc_md5 = '' AND usc_company = 'Phúc' /ajax/checktrungNTD.php
+17/11/2021 07:07:06 AM  
+ SELECT * FROM city2 WHERE cit_parent = 45 /ajax/get_quanhuyen.php
+17/11/2021 07:07:10 AM  
+ SELECT count(*) FROM user_company WHERE usc_address = 'a' /ajax/checkInfoCompany.php
+17/11/2021 07:07:32 AM  
+ SELECT usc_create_time FROM user_company WHERE ip_address = '127.0.0.1' ORDER BY usc_id DESC LIMIT 1 /ajax/checkip.php
+17/11/2021 07:07:32 AM  
+ SELECT count(*) FROM user_company WHERE usc_email = 'buiphuc@gmail.com' /ajax/checkInfoCompany.php
+17/11/2021 07:07:32 AM  
+ SELECT count(*) FROM user_company WHERE usc_alias = 'phuc' OR usc_company = 'Phúc' /ajax/checkInfoCompany.php
+17/11/2021 07:07:32 AM  
+ SELECT usc_id FROM user_company WHERE usc_md5 <> '' AND usc_email = 'buiphuc@gmail.com' AND usc_company = 'Phúc' AND usc_alias <> ''  /codelogin/register_ntd.php
+17/11/2021 07:07:33 AM  
+ INSERT INTO user_company(`usc_email`,`usc_pass`,`usc_phone`,`usc_security`,`usc_authentic`,`usc_company`,`usc_city`,`usc_district`,`usc_address`,`usc_alias`,`ip_address`,`usc_create_time`,`usc_update_time`,`usc_logo`,`usc_skype`,`usc_index`,`DateOfIncorporation`,`usc_mst`,`usc_loai_hinh`) VALUES ('buiphuc@gmail.com','e10adc3949ba59abbe56e057f20f883e','0912870820','0','0','Phúc','45','615','a','phuc','127.0.0.1','1637132852','1637132852','cong-nghe-thong-tin-ap-dung-cong-nghe-de-phat-trien.jpg','','0','1635872400','','2')  /codelogin/register_ntd.php
+17/11/2021 07:07:33 AM  
+ INSERT INTO user_company_multi(`usc_company_info`,`image_com`,`financial_sector`,`usc_id`) VALUES ('1. Giới thiệu chung về công ty.
+2. Đặc điểm về nhân lực.
+3. Nhu cầu tuyển dụng nhân sự.
+4. Các vị trí thường xuyên tuyển dụng.
+5. Quy trình tuyển dụng.
+6. Quyền lợi làm việc của người lao động tại công ty.
+7. Viết tối ưu nội dung, không sửa trong phần tên công ty.
+Lưu ý: Số từ phải lớn hơn 50 từ','','2,3,4','123930')  /codelogin/register_ntd.php
+17/11/2021 07:07:33 AM  
+ SELECT err_id,count(*) FROM user_company_error WHERE err_usc_email = 'buiphuc@gmail.com' /codelogin/register_ntd.php
+17/11/2021 07:07:44 AM  
+ SELECT * FROM user_company WHERE usc_authentic = 0 AND usc_id = '123930'  LIMIT 1 /xac-thuc-tai-khoan-nha-tuyen-dung.html
+17/11/2021 07:10:28 AM  
+ SELECT * FROM city2 WHERE cit_parent = 1 /ajax/get_quanhuyen.php
+17/11/2021 07:10:32 AM  
+ SELECT usc_create_time FROM user_company WHERE ip_address = '127.0.0.1' ORDER BY usc_id DESC LIMIT 1 /ajax/checkip.php
+17/11/2021 07:10:33 AM  
+ SELECT count(*) FROM user_company WHERE usc_address = 'a' /ajax/checkInfoCompany.php
+x/checkInfoCompany.php
+17/11/2021 07:10:33 AM  
+ SELECT count(*) FROM user_company WHERE usc_alias = 'phuc' OR usc_company = 'Phúc' /ajax/checkInfoCompany.php
+17/11/2021 07:10:33 AM  
+ SELECT * FROm user_company_error WHERE err_usc_email = 'overlordmanga310@gmail.com' AND err_usc_phone = '0912870820'  /ajax/register_ntd_err.php
+17/11/2021 07:10:33 AM  
+ INSERT INTO user_company_error(`err_usc_email`,`err_usc_company`,`err_usc_phone`,`err_usc_address`,`err_usc_city`,`err_usc_district`,`err_usc_multi`) VALUES ('overlordmanga310@gmail.com','Phúc','0912870820','a','1','66','1. Giới thiệu chung về công ty.
+2. Đặc điểm về nhân lực.
+3. Nhu cầu tuyển dụng nhân sự.
+4. Các vị trí thường xuyên tuyển dụng.
+5. Quy trình tuyển dụng.
+6. Quyền lợi làm việc của người lao động tại công ty.
+7. Viết tối ưu nội dung, không sửa trong phần tên công ty.
+Lưu ý: Số từ phải lớn hơn 50 từ')  /ajax/register_ntd_err.php
+17/11/2021 07:10:41 AM  
+ SELECT usc_company FROM user_company WHERE usc_md5 = '' AND usc_company = 'Phúc' /ajax/checktrungNTD.php
+17/11/2021 07:11:58 AM  
+ SELECT usc_company FROM user_company WHERE usc_md5 = '' AND usc_company = 'Phúc' /ajax/checktrungNTD.php
+17/11/2021 07:15:04 AM  
+ SELECT usc_company FROM user_company WHERE usc_md5 = '' AND usc_company = 'Phúc Nè' /ajax/checktrungNTD.php
+17/11/2021 07:15:41 AM  
+ SELECT usc_create_time FROM user_company WHERE ip_address = '127.0.0.1' ORDER BY usc_id DESC LIMIT 1 /ajax/checkip.php
+17/11/2021 07:15:41 AM  
+ SELECT count(*) FROM user_company WHERE usc_email = 'overlordmanga310@gmail.com' /ajax/checkInfoCompany.php
+17/11/2021 07:15:42 AM  
+ SELECT count(*) FROM user_company WHERE usc_alias = 'phuc-ne' OR usc_company = 'Phúc Nè' /ajax/checkInfoCompany.php
+17/11/2021 07:15:42 AM  
+ SELECT usc_id FROM user_company WHERE usc_md5 <> '' AND usc_email = 'overlordmanga310@gmail.com' AND usc_company = 'Phúc Nè' AND usc_alias <> ''  /codelogin/register_ntd.php
+17/11/2021 07:15:42 AM  
+ INSERT INTO user_company(`usc_email`,`usc_pass`,`usc_phone`,`usc_security`,`usc_authentic`,`usc_company`,`usc_city`,`usc_district`,`usc_address`,`usc_alias`,`ip_address`,`usc_create_time`,`usc_update_time`,`usc_logo`,`usc_skype`,`usc_index`,`DateOfIncorporation`,`usc_mst`,`usc_loai_hinh`) VALUES ('overlordmanga310@gmail.com','e10adc3949ba59abbe56e057f20f883e','0912870820','0','0','Phúc Nè','1','66','a','phuc-ne','127.0.0.1','1637133342','1637133342','su-tro-lai-cua-phap-su-vi-dai-sau-4000-nam.jpg','','0','1635872400','','2')  /codelogin/register_ntd.php
+17/11/2021 07:15:42 AM  
+ INSERT INTO user_company_multi(`usc_company_info`,`image_com`,`financial_sector`,`usc_id`) VALUES ('1. Giới thiệu chung về công ty.
+2. Đặc điểm về nhân lực.
+3. Nhu cầu tuyển dụng nhân sự.
+4. Các vị trí thường xuyên tuyển dụng.
+5. Quy trình tuyển dụng.
+6. Quyền lợi làm việc của người lao động tại công ty.
+7. Viết tối ưu nội dung, không sửa trong phần tên công ty.
+Lưu ý: Số từ phải lớn hơn 50 từ','','2,3,4','123931')  /codelogin/register_ntd.php
+17/11/2021 07:15:42 AM  
+ SELECT err_id,count(*) FROM user_company_error WHERE err_usc_email = 'overlordmanga310@gmail.com' /codelogin/register_ntd.php
+17/11/2021 07:15:42 AM  
+ DELETE FROM `user_company_error` WHERE err_id = '3' /codelogin/register_ntd.php
+17/11/2021 07:15:47 AM  
+ SELECT * FROM user_company WHERE usc_authentic = 0 AND usc_id = '123931'  LIMIT 1 /xac-thuc-tai-khoan-nha-tuyen-dung.html
+13/12/2021 09:42:40 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+13/12/2021 09:42:40 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+13/12/2021 09:42:40 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+13/12/2021 09:42:40 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+13/12/2021 09:42:40 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+13/12/2021 09:42:40 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+13/12/2021 09:42:40 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+13/12/2021 09:42:40 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+13/12/2021 09:42:40 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+13/12/2021 09:42:40 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+13/12/2021 09:42:40 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login.php
+13/12/2021 09:42:43 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+13/12/2021 09:42:43 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+13/12/2021 09:42:43 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+13/12/2021 09:42:43 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+13/12/2021 09:42:43 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+13/12/2021 09:42:43 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = 'admin' AND password = 'c20ad4d76fe97759aa27a0c99bff6710' AND `delete` = 0 /admin/login.php
+13/12/2021 09:42:43 AM  
+ SELECT id,image FROM `tbl_admin` WHERE id = 1 /admin/login.php
+13/12/2021 09:42:43 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+13/12/2021 09:42:43 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+13/12/2021 09:42:43 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+13/12/2021 09:42:43 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+13/12/2021 09:42:43 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+13/12/2021 09:42:47 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:42:47 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:42:47 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:42:47 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:42:47 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+13/12/2021 09:42:47 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 1 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/san-pham
+13/12/2021 09:43:45 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:43:45 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:43:45 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:43:45 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:43:45 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+13/12/2021 09:43:45 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 1 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/san-pham
+13/12/2021 09:43:52 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:43:52 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:43:52 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:43:52 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:43:52 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+13/12/2021 09:44:21 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:21 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:21 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:21 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:21 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+13/12/2021 09:44:27 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:27 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:27 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:27 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:27 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+13/12/2021 09:44:27 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 1 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/san-pham
+13/12/2021 09:44:30 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login
+13/12/2021 09:44:30 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login
+13/12/2021 09:44:30 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login
+13/12/2021 09:44:30 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login
+13/12/2021 09:44:30 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login
+13/12/2021 09:44:30 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login
+13/12/2021 09:44:35 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login
+13/12/2021 09:44:35 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login
+13/12/2021 09:44:35 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login
+13/12/2021 09:44:35 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login
+13/12/2021 09:44:35 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login
+13/12/2021 09:44:35 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = 'admin' AND password = 'c20ad4d76fe97759aa27a0c99bff6710' AND `delete` = 0 /admin/login
+13/12/2021 09:44:35 AM  
+ SELECT id,image FROM `tbl_admin` WHERE id = 1 /admin/login
+13/12/2021 09:44:35 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+13/12/2021 09:44:35 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+13/12/2021 09:44:35 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+13/12/2021 09:44:35 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+13/12/2021 09:44:35 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+13/12/2021 09:44:38 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:38 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:38 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:38 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+13/12/2021 09:44:38 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+13/12/2021 09:44:38 AM  
+ SELECT id,name,image,alias,code_product,quantity,price_old,discount,status FROM `tbl_product` WHERE `delete` = 0 ORDER BY modify_time DESC /admin/san-pham
+13/12/2021 09:44:40 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:44:40 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:44:40 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:44:40 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:44:40 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+13/12/2021 09:44:40 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE id != 1 ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:44:43 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:44:43 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:44:43 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:44:43 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:44:43 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:44:43 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 5 /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:44:43 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 5 /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:44:56 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+13/12/2021 09:44:56 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+13/12/2021 09:44:56 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+13/12/2021 09:44:56 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+13/12/2021 09:44:56 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+13/12/2021 09:44:56 AM  
+ SELECT * FROM `tbl_admin` WHERE username = 'test'  /admin/ajax/account.php
+13/12/2021 09:45:30 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:45:30 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:45:30 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:45:30 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:45:30 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:45:30 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 5 /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:45:30 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 5 /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:45:38 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+13/12/2021 09:45:38 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+13/12/2021 09:45:38 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+13/12/2021 09:45:38 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+13/12/2021 09:45:38 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+13/12/2021 09:45:38 AM  
+ UPDATE tbl_admin SET `username` = 'test',`password` = 'd41d8cd98f00b204e9800998ecf8427e',`name` = 'Phúc Híp',`phone` = '0912870820',`email` = 'buiphuc044@gmail.com',`address` = '',`sapo` = 'Đây là phúc híp',`modify_time` = '1639388738',`status` = '1' WHERE 1 AND `id` = '5'  /admin/ajax/account.php
+13/12/2021 09:45:38 AM  
+ DELETE FROM `tbl_role` WHERE id_user =5 /admin/ajax/account.php
+13/12/2021 09:45:39 AM  
+ INSERT INTO `tbl_role`(`id_user`, `id_modules`, `view`, `add`, `edit`, `delete`) VALUES (5,1,1,0,1,0),(5,2,1,0,1,0),(5,3,1,1,1,0),(5,4,1,1,1,0),(5,5,1,1,1,1),(5,6,1,1,1,1),(5,7,1,1,1,1) /admin/ajax/account.php
+13/12/2021 09:45:40 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:45:40 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:45:40 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:45:40 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:45:40 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+13/12/2021 09:45:40 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE id != 1 ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:01 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=add
+13/12/2021 09:46:01 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=add
+13/12/2021 09:46:01 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=add
+13/12/2021 09:46:01 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=add
+13/12/2021 09:46:01 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=add
+13/12/2021 09:46:03 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:03 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:03 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:03 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:03 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+13/12/2021 09:46:03 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE id != 1 ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:07 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:07 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:07 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:07 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:07 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+13/12/2021 09:46:07 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE id != 1 ORDER BY id DESC /admin/tai-khoan
+13/12/2021 09:46:09 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:46:09 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:46:09 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:46:09 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:46:09 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:46:09 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 5 /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:46:09 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 5 /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:47:06 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:47:06 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:47:06 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:47:06 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:47:06 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:47:06 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 5 /admin/tai-khoan?action=edit&id=5
+13/12/2021 09:47:06 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 5 /admin/tai-khoan?action=edit&id=5
+13/12/2021 10:33:59 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+13/12/2021 10:33:59 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+13/12/2021 10:33:59 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+13/12/2021 10:33:59 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+13/12/2021 10:33:59 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+13/12/2021 10:33:59 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+13/12/2021 10:33:59 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+13/12/2021 10:33:59 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+13/12/2021 10:33:59 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+13/12/2021 10:33:59 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+13/12/2021 10:33:59 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login.php
+14/12/2021 01:47:34 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 01:47:34 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 01:47:34 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 01:47:34 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 01:47:34 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 01:47:34 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 01:47:34 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 01:47:34 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 01:47:34 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 01:47:34 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 01:47:34 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login.php
+14/12/2021 01:47:40 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 01:47:40 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 01:47:40 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 01:47:40 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 01:47:40 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 01:47:40 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = 'admin' AND password = '25d55ad283aa400af464c76d713c07ad' AND `delete` = 0 /admin/login.php
+14/12/2021 01:47:40 AM  
+ SELECT id,name,image FROM `tbl_admin` WHERE id = 1 /admin/login.php
+14/12/2021 01:47:40 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 01:47:40 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 01:47:40 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 01:47:40 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 01:47:40 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 01:47:44 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:44 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:44 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:44 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:44 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 01:47:44 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:45 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 01:47:45 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 01:47:45 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 01:47:45 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 01:47:45 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 01:47:45 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 01:47:45 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 01:47:51 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 01:47:51 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 01:47:51 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 01:47:51 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 01:47:51 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+14/12/2021 01:47:51 AM  
+ UPDATE tbl_admin SET `username` = 'phuchip',`name` = 'Phúc Híp',`phone` = '0912870820',`email` = 'buiphuc044@gmail.com',`address` = '68 ngõ 151 Nguyễn Đức Cảnh',`sapo` = 'Đây là phúc',`modify_time` = '1639446471',`status` = '1' WHERE 1 AND `id` = '6'  /admin/ajax/account.php
+14/12/2021 01:47:51 AM  
+ DELETE FROM `tbl_role` WHERE id_user =6 /admin/ajax/account.php
+14/12/2021 01:47:51 AM  
+ INSERT INTO `tbl_role`(`id_user`, `id_modules`, `view`, `add`, `edit`, `delete`) VALUES (6,1,1,1,1,1),(6,2,0,1,1,1),(6,3,0,1,1,1),(6,4,1,1,1,1),(6,5,1,1,1,1),(6,6,1,1,1,1),(6,7,1,1,1,1),(6,8,1,1,1,1) /admin/ajax/account.php
+14/12/2021 01:47:52 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:52 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:52 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:52 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:47:52 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 01:47:52 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:59:31 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:59:31 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:59:31 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:59:31 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 01:59:31 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 01:59:31 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 02:05:32 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 02:05:32 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 02:05:32 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 02:05:32 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 02:05:32 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 02:05:32 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 02:05:33 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 02:05:33 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 02:05:33 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 02:05:33 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 02:05:33 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 02:05:33 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 02:05:33 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:19:25 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 08:19:25 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 08:19:25 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 08:19:25 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 08:19:25 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 08:19:25 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 08:19:25 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 08:19:25 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 08:19:25 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 08:19:25 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 08:19:25 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login.php
+14/12/2021 08:19:33 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 08:19:33 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 08:19:33 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 08:19:33 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 08:19:33 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 08:19:33 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = 'admin' AND password = '25d55ad283aa400af464c76d713c07ad' AND `delete` = 0 /admin/login.php
+14/12/2021 08:19:33 AM  
+ SELECT id,name,image FROM `tbl_admin` WHERE id = 1 /admin/login.php
+14/12/2021 08:19:33 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 08:19:33 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 08:19:33 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 08:19:33 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 08:19:33 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 08:19:36 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:19:36 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:19:36 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:19:36 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:19:36 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/hang-san-xuat
+14/12/2021 08:19:36 AM  
+ SELECT id,name,modify_time,status FROM `tbl_manufacturer` WHERE 1 ORDER BY modify_time DESC /admin/hang-san-xuat
+14/12/2021 08:19:40 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:40 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:40 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:40 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:40 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:43 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:43 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:43 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:43 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:43 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/hang-san-xuat?action=add
+14/12/2021 08:19:43 AM  
+ INSERT INTO tbl_manufacturer(`name`,`status`,`created_time`,`modify_time`) VALUES ('HP','1','1639469983','1639469983')  /admin/hang-san-xuat?action=add
+14/12/2021 08:19:44 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:19:44 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:19:44 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:19:44 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:19:44 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/hang-san-xuat
+14/12/2021 08:19:44 AM  
+ SELECT id,name,modify_time,status FROM `tbl_manufacturer` WHERE 1 ORDER BY modify_time DESC /admin/hang-san-xuat
+14/12/2021 08:19:46 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:19:46 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:19:46 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:19:46 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:19:46 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+14/12/2021 08:19:46 AM  
+ SELECT id,name,image,alias,code_product,quantity,price_old,discount,status FROM `tbl_product` WHERE `delete` = 0 ORDER BY modify_time DESC /admin/san-pham
+14/12/2021 08:19:51 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:51 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:51 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:51 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:51 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:19:51 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:52 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:19:52 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:19:52 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:19:52 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:19:52 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:19:52 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:19:52 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:19:55 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:19:55 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:19:55 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:19:55 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:19:55 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+14/12/2021 08:19:55 AM  
+ UPDATE tbl_admin SET `username` = 'phuchip',`name` = 'Phúc Híp',`phone` = '0912870820',`email` = 'buiphuc044@gmail.com',`address` = '68 ngõ 151 Nguyễn Đức Cảnh',`sapo` = 'Đây là phúc',`modify_time` = '1639469995',`status` = '1' WHERE 1 AND `id` = '6'  /admin/ajax/account.php
+14/12/2021 08:19:55 AM  
+ DELETE FROM `tbl_role` WHERE id_user =6 /admin/ajax/account.php
+14/12/2021 08:19:55 AM  
+ INSERT INTO `tbl_role`(`id_user`, `id_modules`, `view`, `add`, `edit`, `delete`) VALUES (6,1,1,1,1,1),(6,2,1,1,1,1),(6,3,1,1,1,1),(6,4,1,1,1,1),(6,5,1,1,1,1),(6,6,1,1,1,1),(6,7,1,1,1,1),(6,8,1,1,1,1) /admin/ajax/account.php
+14/12/2021 08:19:57 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:57 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:57 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:57 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:19:57 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:19:57 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:24:22 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 08:24:22 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 08:24:22 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 08:24:22 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 08:24:22 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 08:24:22 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 08:24:22 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 08:24:22 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 08:24:22 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 08:24:22 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 08:24:22 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login.php
+14/12/2021 08:49:04 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 08:49:04 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 08:49:04 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 08:49:04 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 08:49:04 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 08:49:04 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 08:49:04 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 08:49:04 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 08:49:04 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 08:49:04 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 08:49:04 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login.php
+14/12/2021 08:49:30 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 08:49:30 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 08:49:30 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 08:49:30 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 08:49:30 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 08:49:30 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = 'admin' AND password = '25d55ad283aa400af464c76d713c07ad' AND `delete` = 0 /admin/login.php
+14/12/2021 08:49:30 AM  
+ SELECT id,name,image FROM `tbl_admin` WHERE id = 1 /admin/login.php
+14/12/2021 08:49:30 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 08:49:30 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 08:49:30 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 08:49:30 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 08:49:30 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 08:49:33 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:33 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:33 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:33 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:33 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:49:33 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:34 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:34 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:34 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:34 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:34 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:34 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:34 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:37 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:49:37 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:49:37 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:49:37 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:49:37 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+14/12/2021 08:49:37 AM  
+ UPDATE tbl_admin SET `username` = 'phuchip',`name` = 'Phúc Híp',`phone` = '0912870820',`email` = 'buiphuc044@gmail.com',`address` = '68 ngõ 151 Nguyễn Đức Cảnh',`sapo` = 'Đây là phúc',`modify_time` = '1639471777',`status` = '1' WHERE 1 AND `id` = '6'  /admin/ajax/account.php
+14/12/2021 08:49:37 AM  
+ DELETE FROM `tbl_role` WHERE id_user =6 /admin/ajax/account.php
+14/12/2021 08:49:37 AM  
+ INSERT INTO `tbl_role`(`id_user`, `id_modules`, `view`, `add`, `edit`, `delete`) VALUES (6,1,1,1,1,1),(6,2,0,1,1,1),(6,3,0,1,1,1),(6,4,1,1,1,1),(6,5,1,1,1,1),(6,6,1,1,1,1),(6,7,1,1,1,1),(6,8,1,1,1,1) /admin/ajax/account.php
+14/12/2021 08:49:38 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:38 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:38 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:38 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:38 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:49:38 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:44 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:44 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:44 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:44 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:44 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:44 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:44 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:49:47 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:49:47 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:49:47 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:49:47 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:49:47 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+14/12/2021 08:49:47 AM  
+ UPDATE tbl_admin SET `username` = 'phuchip',`name` = 'Phúc Híp',`phone` = '0912870820',`email` = 'buiphuc044@gmail.com',`address` = '68 ngõ 151 Nguyễn Đức Cảnh',`sapo` = 'Đây là phúc',`modify_time` = '1639471787',`status` = '1' WHERE 1 AND `id` = '6'  /admin/ajax/account.php
+14/12/2021 08:49:47 AM  
+ DELETE FROM `tbl_role` WHERE id_user =6 /admin/ajax/account.php
+14/12/2021 08:49:47 AM  
+ INSERT INTO `tbl_role`(`id_user`, `id_modules`, `view`, `add`, `edit`, `delete`) VALUES (6,1,0,1,1,1),(6,2,0,1,1,1),(6,3,0,1,1,1),(6,4,1,1,1,1),(6,5,1,1,1,1),(6,6,1,1,1,1),(6,7,1,1,1,1),(6,8,1,1,1,1) /admin/ajax/account.php
+14/12/2021 08:49:49 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:49 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:49 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:49 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:49:49 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:49:49 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:00 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:00 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:00 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:00 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:00 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:00 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:00 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:06 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:06 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:06 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:06 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:06 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+14/12/2021 08:50:06 AM  
+ UPDATE tbl_admin SET `username` = 'phuchip',`name` = 'Phúc Híp',`phone` = '0912870820',`email` = 'buiphuc044@gmail.com',`address` = '68 ngõ 151 Nguyễn Đức Cảnh',`sapo` = 'Đây là phúc',`modify_time` = '1639471806',`status` = '1' WHERE 1 AND `id` = '6'  /admin/ajax/account.php
+14/12/2021 08:50:06 AM  
+ DELETE FROM `tbl_role` WHERE id_user =6 /admin/ajax/account.php
+14/12/2021 08:50:06 AM  
+ INSERT INTO `tbl_role`(`id_user`, `id_modules`, `view`, `add`, `edit`, `delete`) VALUES (6,1,1,1,1,1),(6,2,1,1,1,1),(6,3,1,1,1,1),(6,4,1,1,1,1),(6,5,1,1,1,1),(6,6,1,1,1,1),(6,7,1,1,1,1),(6,8,1,1,1,1) /admin/ajax/account.php
+14/12/2021 08:50:07 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:07 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:07 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:07 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:07 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:50:07 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:15 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:15 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:15 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:15 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:15 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:15 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:15 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:18 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:18 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:18 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:18 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:18 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+14/12/2021 08:50:18 AM  
+ UPDATE tbl_admin SET `username` = 'phuchip',`name` = 'Phúc Híp',`phone` = '0912870820',`email` = 'buiphuc044@gmail.com',`address` = '68 ngõ 151 Nguyễn Đức Cảnh',`sapo` = 'Đây là phúc',`modify_time` = '1639471818',`status` = '1' WHERE 1 AND `id` = '6'  /admin/ajax/account.php
+14/12/2021 08:50:18 AM  
+ DELETE FROM `tbl_role` WHERE id_user =6 /admin/ajax/account.php
+14/12/2021 08:50:18 AM  
+ INSERT INTO `tbl_role`(`id_user`, `id_modules`, `view`, `add`, `edit`, `delete`) VALUES (6,1,1,0,1,1),(6,2,1,1,1,1),(6,3,1,1,1,1),(6,4,1,1,1,1),(6,5,1,1,1,1),(6,6,1,1,1,1),(6,7,1,1,1,1),(6,8,1,1,1,1) /admin/ajax/account.php
+14/12/2021 08:50:19 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:19 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:19 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:19 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:19 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:50:19 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:27 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:27 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:27 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:27 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:27 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:27 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:27 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 08:50:37 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:37 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:37 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:37 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/account.php
+14/12/2021 08:50:37 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/account.php
+14/12/2021 08:50:37 AM  
+ UPDATE tbl_admin SET `username` = 'phuchip',`name` = 'Phúc Híp',`phone` = '0912870820',`email` = 'buiphuc044@gmail.com',`address` = '68 ngõ 151 Nguyễn Đức Cảnh',`sapo` = 'Đây là phúc',`modify_time` = '1639471837',`status` = '1' WHERE 1 AND `id` = '6'  /admin/ajax/account.php
+14/12/2021 08:50:37 AM  
+ DELETE FROM `tbl_role` WHERE id_user =6 /admin/ajax/account.php
+14/12/2021 08:50:37 AM  
+ INSERT INTO `tbl_role`(`id_user`, `id_modules`, `view`, `add`, `edit`, `delete`) VALUES (6,1,1,1,1,1),(6,2,1,1,1,1),(6,3,1,1,1,1),(6,4,1,1,1,1),(6,5,1,1,1,1),(6,6,1,1,1,1),(6,7,1,1,1,1),(6,8,0,0,0,0) /admin/ajax/account.php
+14/12/2021 08:50:38 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:38 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:38 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:38 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:50:38 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:50:38 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:51:52 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:51:52 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:51:52 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:51:52 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:51:52 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/thong-tin
+14/12/2021 08:51:52 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 1 /admin/thong-tin
+14/12/2021 08:52:22 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:52:22 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:52:22 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:52:22 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:52:22 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/thong-tin
+14/12/2021 08:52:22 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 1 /admin/thong-tin
+14/12/2021 08:52:24 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:24 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:24 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:24 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:24 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:52:24 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 8 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/tai-khoan
+14/12/2021 08:52:24 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:58 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:58 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:58 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:58 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:52:58 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:52:58 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 8 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/tai-khoan
+14/12/2021 08:52:58 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:53:01 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:53:01 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:53:01 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:53:01 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:53:01 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/hang-san-xuat
+14/12/2021 08:53:01 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 2 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/hang-san-xuat
+14/12/2021 08:53:01 AM  
+ SELECT id,name,modify_time,status FROM `tbl_manufacturer` WHERE 1 ORDER BY modify_time DESC /admin/hang-san-xuat
+14/12/2021 08:53:04 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:53:04 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:53:04 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:53:04 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:53:04 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+14/12/2021 08:53:04 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 1 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/san-pham
+14/12/2021 08:53:04 AM  
+ SELECT id,name,image,alias,code_product,quantity,price_old,discount,status FROM `tbl_product` WHERE `delete` = 0 ORDER BY modify_time DESC /admin/san-pham
+14/12/2021 08:55:10 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:55:10 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:55:10 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:55:10 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:55:10 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+14/12/2021 08:55:10 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 1 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/san-pham
+14/12/2021 08:55:10 AM  
+ SELECT id,name,image,alias,code_product,quantity,price_old,discount,status FROM `tbl_product` WHERE `delete` = 0 ORDER BY modify_time DESC /admin/san-pham
+14/12/2021 08:55:12 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:55:12 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:55:12 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:55:12 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/hang-san-xuat
+14/12/2021 08:55:12 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/hang-san-xuat
+14/12/2021 08:55:12 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 2 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/hang-san-xuat
+14/12/2021 08:55:12 AM  
+ SELECT id,name,modify_time,status FROM `tbl_manufacturer` WHERE 1 ORDER BY modify_time DESC /admin/hang-san-xuat
+14/12/2021 08:55:13 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/loai-may-in
+14/12/2021 08:55:13 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/loai-may-in
+14/12/2021 08:55:13 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/loai-may-in
+14/12/2021 08:55:13 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/loai-may-in
+14/12/2021 08:55:13 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/loai-may-in
+14/12/2021 08:55:13 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 3 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/loai-may-in
+14/12/2021 08:55:13 AM  
+ SELECT id,name,modify_time,status FROM `tbl_category` WHERE 1 ORDER BY modify_time DESC /admin/loai-may-in
+14/12/2021 08:55:15 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/cong-ket-noi
+14/12/2021 08:55:15 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/cong-ket-noi
+14/12/2021 08:55:15 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/cong-ket-noi
+14/12/2021 08:55:15 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/cong-ket-noi
+14/12/2021 08:55:15 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/cong-ket-noi
+14/12/2021 08:55:15 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 4 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/cong-ket-noi
+14/12/2021 08:55:15 AM  
+ SELECT id,name,modify_time,status FROM `tbl_connector` WHERE 1 ORDER BY modify_time DESC /admin/cong-ket-noi
+14/12/2021 08:55:17 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/kho-giay
+14/12/2021 08:55:17 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/kho-giay
+14/12/2021 08:55:17 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/kho-giay
+14/12/2021 08:55:17 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/kho-giay
+14/12/2021 08:55:17 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/kho-giay
+14/12/2021 08:55:17 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 5 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/kho-giay
+14/12/2021 08:55:17 AM  
+ SELECT id,name,modify_time,status FROM `tbl_paper_size` WHERE 1 ORDER BY modify_time DESC /admin/kho-giay
+14/12/2021 08:55:20 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:55:20 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:55:20 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:55:20 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:55:20 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 08:55:20 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 8 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/tai-khoan
+14/12/2021 08:55:20 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 08:55:22 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:55:22 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:55:22 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:55:22 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/thong-tin
+14/12/2021 08:55:22 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/thong-tin
+14/12/2021 08:55:22 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 1 /admin/thong-tin
+14/12/2021 08:55:36 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/doi-mat-khau
+14/12/2021 08:55:36 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/doi-mat-khau
+14/12/2021 08:55:36 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/doi-mat-khau
+14/12/2021 08:55:36 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/doi-mat-khau
+14/12/2021 08:55:36 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/doi-mat-khau
+14/12/2021 08:55:36 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 1 /admin/doi-mat-khau
+14/12/2021 08:55:40 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 08:55:40 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 08:55:40 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 08:55:40 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 08:55:40 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 08:55:42 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:55:42 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:55:42 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:55:42 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/san-pham
+14/12/2021 08:55:42 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/san-pham
+14/12/2021 08:55:42 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 1 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/san-pham
+14/12/2021 08:55:42 AM  
+ SELECT id,name,image,alias,code_product,quantity,price_old,discount,status FROM `tbl_product` WHERE `delete` = 0 ORDER BY modify_time DESC /admin/san-pham
+14/12/2021 09:28:42 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 09:28:42 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 09:28:42 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 09:28:42 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 09:28:42 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 09:28:42 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 09:28:42 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 09:28:42 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 09:28:42 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 09:28:42 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 09:28:42 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login.php
+14/12/2021 09:28:46 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+14/12/2021 09:28:46 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+14/12/2021 09:28:46 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+14/12/2021 09:28:46 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+14/12/2021 09:28:46 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+14/12/2021 09:28:46 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = 'admin' AND password = '25d55ad283aa400af464c76d713c07ad' AND `delete` = 0 /admin/login.php
+14/12/2021 09:28:46 AM  
+ SELECT id,name,image FROM `tbl_admin` WHERE id = 1 /admin/login.php
+14/12/2021 09:28:46 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+14/12/2021 09:28:46 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+14/12/2021 09:28:46 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+14/12/2021 09:28:46 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+14/12/2021 09:28:46 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+14/12/2021 09:28:48 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 09:28:48 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 09:28:48 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 09:28:48 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan
+14/12/2021 09:28:48 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan
+14/12/2021 09:28:48 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 8 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/tai-khoan
+14/12/2021 09:28:48 AM  
+ SELECT id,username,name,email,modify_time,status FROM `tbl_admin` WHERE `delete` = 0 AND `id` != 1 ORDER BY id DESC /admin/tai-khoan
+14/12/2021 09:28:49 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:28:49 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:28:49 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:28:49 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:28:49 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:28:49 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 8 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:28:49 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:28:49 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:29:00 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:29:00 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:29:00 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:29:00 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:29:00 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:29:00 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 8 AND tbl_role.view = 1 AND tbl_role.id_user = 1 /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:29:00 AM  
+ SELECT * FROM `tbl_admin` WHERE 1 AND id = 6 /admin/tai-khoan?action=edit&id=6
+14/12/2021 09:29:00 AM  
+ SELECT * FROM `tbl_role` join `tbl_modules` on tbl_role.id_modules = tbl_modules.id where tbl_role.id_user = 6 /admin/tai-khoan?action=edit&id=6
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /
+30/12/2021 04:43:11 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /
+30/12/2021 04:43:11 AM  
+ SELECT * FROM tbl_tags limit 3 /
+30/12/2021 04:43:11 AM  
+ SELECT * FROM tbl_tags /
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 AND `id` in(4,5,1,3,6) ORDER BY modify_time DESC /
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `discount` DESC limit 12 /
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `view` DESC limit 12 /
+30/12/2021 04:43:11 AM  
+ SELECT b.id,b.name,b.alias,b.price_old,b.discount,b.description,a.name as thuong_hieu FROM `tbl_product` b JOIN `tbl_manufacturer` a ON b.`manufacturer` = a.`id` WHERE b.`delete` = 0 AND b.`status` = 1 ORDER BY b.`modify_time` DESC LIMIT 1 /
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/getTag.php
+php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getProduct.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /ajax/getProduct.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getTag.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /ajax/getTag.php
+.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /ajax/getTag.php
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getProduct.php
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getTag.php
+30/12/2021 04:43:11 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getProduct.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getProduct.php
+30/12/2021 04:43:11 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getTag.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getTag.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM tbl_tags /ajax/getTag.php
+image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getProduct.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getTag.php
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getProduct.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM `tbl_tags` /ajax/getTag.php
+y FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT * FROM tbl_tags /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getmax.php
+30/12/2021 04:43:11 AM  
+ SELECT MAX(price_old) as max FROM `tbl_product` /ajax/getmax.php
+30/12/2021 04:51:35 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+30/12/2021 04:51:35 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+30/12/2021 04:51:35 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+30/12/2021 04:51:35 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+30/12/2021 04:51:35 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+30/12/2021 04:51:35 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/
+30/12/2021 04:51:35 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+30/12/2021 04:51:35 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+30/12/2021 04:51:35 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+30/12/2021 04:51:35 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+30/12/2021 04:51:35 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+30/12/2021 04:51:35 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/login.php
+30/12/2021 04:51:35 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login.php
+30/12/2021 05:11:09 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login.php
+30/12/2021 05:11:09 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login.php
+30/12/2021 05:11:11 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login.php
+30/12/2021 05:11:11 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login.php
+30/12/2021 05:11:11 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login.php
+30/12/2021 05:11:11 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/login.php
+30/12/2021 05:11:11 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = 'admin' AND password = '25d55ad283aa400af464c76d713c07ad' AND `delete` = 0 /admin/login.php
+30/12/2021 05:11:11 AM  
+ SELECT id,name,image FROM `tbl_admin` WHERE id = 1 /admin/login.php
+30/12/2021 05:11:11 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+30/12/2021 05:11:11 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+30/12/2021 05:11:11 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+30/12/2021 05:11:11 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+30/12/2021 05:11:11 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+30/12/2021 05:11:11 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/
+30/12/2021 05:11:11 AM  
+ SELECT quantity,total FROM `tbl_order` /admin/
+30/12/2021 05:11:11 AM  
+ SELECT count(*) as count FROM `tbl_comments` /admin/
+30/12/2021 05:11:17 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login
+30/12/2021 05:11:17 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login
+30/12/2021 05:11:17 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login
+30/12/2021 05:11:17 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login
+30/12/2021 05:11:17 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login
+30/12/2021 05:11:17 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/login
+30/12/2021 05:11:17 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = '' AND password = 'd41d8cd98f00b204e9800998ecf8427e' AND `delete` = 0 /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT id 
+										 FROM tbl_admin
+										 WHERE username = 'phuchip' AND password = '25d55ad283aa400af464c76d713c07ad' AND `delete` = 0 /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT id,name,image FROM `tbl_admin` WHERE id = 6 /admin/login
+30/12/2021 05:11:23 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/
+30/12/2021 05:11:23 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/
+30/12/2021 05:11:23 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/
+30/12/2021 05:11:23 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/
+30/12/2021 05:11:23 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/
+30/12/2021 05:11:23 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/
+30/12/2021 05:11:23 AM  
+ SELECT quantity,total FROM `tbl_order` /admin/
+30/12/2021 05:11:23 AM  
+ SELECT count(*) as count FROM `tbl_comments` /admin/
+30/12/2021 05:11:25 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:25 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:25 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:25 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:25 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/don-hang
+30/12/2021 05:11:25 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/don-hang
+30/12/2021 05:11:25 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 6 AND tbl_role.view = 1 AND tbl_role.id_user = 6 /admin/don-hang
+30/12/2021 05:11:25 AM  
+ SELECT id,name,phone,address,quantity,total,status FROM `tbl_order` WHERE `delete` = 0 ORDER BY modify_time DESC /admin/don-hang
+30/12/2021 05:11:29 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:29 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:29 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:29 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:29 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/status_order.php
+30/12/2021 05:11:29 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/ajax/status_order.php
+30/12/2021 05:11:29 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 6 AND tbl_role.view = 1 AND tbl_role.id_user = 6 /admin/ajax/status_order.php
+30/12/2021 05:11:33 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:33 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:33 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:33 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:33 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/don-hang
+30/12/2021 05:11:33 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/don-hang
+30/12/2021 05:11:33 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 6 AND tbl_role.view = 1 AND tbl_role.id_user = 6 /admin/don-hang
+30/12/2021 05:11:33 AM  
+ SELECT id,name,phone,address,quantity,total,status FROM `tbl_order` WHERE `delete` = 0 ORDER BY modify_time DESC /admin/don-hang
+30/12/2021 05:11:35 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:35 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:35 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:35 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:35 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/status_order.php
+30/12/2021 05:11:35 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/ajax/status_order.php
+30/12/2021 05:11:35 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 6 AND tbl_role.view = 1 AND tbl_role.id_user = 6 /admin/ajax/status_order.php
+30/12/2021 05:11:38 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:38 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:38 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:38 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/ajax/status_order.php
+30/12/2021 05:11:38 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/ajax/status_order.php
+30/12/2021 05:11:38 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/ajax/status_order.php
+30/12/2021 05:11:38 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 6 AND tbl_role.view = 1 AND tbl_role.id_user = 6 /admin/ajax/status_order.php
+30/12/2021 05:11:42 AM  
+ SELECT id,name FROM `tbl_manufacturer` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:42 AM  
+ SELECT id,name FROM `tbl_category` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:42 AM  
+ SELECT id,name FROM `tbl_connector` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:42 AM  
+ SELECT id,name FROM `tbl_paper_size` ORDER BY id DESC /admin/don-hang
+30/12/2021 05:11:42 AM  
+ SELECT * FROM `tbl_modules` ORDER BY id ASC /admin/don-hang
+30/12/2021 05:11:42 AM  
+ SELECT * FROM `tbl_tags` ORDER BY id ASC /admin/don-hang
+30/12/2021 05:11:42 AM  
+ SELECT * FROM `tbl_role` JOIN `tbl_modules` ON tbl_role.id_modules = tbl_modules.id AND tbl_role.id_modules = 6 AND tbl_role.view = 1 AND tbl_role.id_user = 6 /admin/don-hang
+30/12/2021 05:11:42 AM  
+ SELECT id,name,phone,address,quantity,total,status FROM `tbl_order` WHERE `delete` = 0 ORDER BY modify_time DESC /admin/don-hang
+04/01/2022 01:18:14 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /
+04/01/2022 01:18:15 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /
+04/01/2022 01:18:15 AM  
+ SELECT * FROM tbl_tags limit 3 /
+04/01/2022 01:18:15 AM  
+ SELECT * FROM tbl_tags /
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 AND `id` in(4,5,1,3,6) ORDER BY modify_time DESC /
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `discount` DESC limit 12 /
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `view` DESC limit 12 /
+04/01/2022 01:18:15 AM  
+ SELECT b.id,b.name,b.alias,b.price_old,b.discount,b.description,a.name as thuong_hieu FROM `tbl_product` b JOIN `tbl_manufacturer` a ON b.`manufacturer` = a.`id` WHERE b.`delete` = 0 AND b.`status` = 1 ORDER BY b.`modify_time` DESC LIMIT 1 /
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/getProduct.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getProduct.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/getTag.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getTag.php
+.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /ajax/getTag.php
+.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /ajax/getTag.php
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getProduct.php
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getTag.php
+04/01/2022 01:18:15 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getProduct.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getProduct.php
+04/01/2022 01:18:15 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getTag.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getTag.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM tbl_tags /ajax/getTag.php
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getProduct.php
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getTag.php
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getProduct.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_tags` /ajax/getTag.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT * FROM tbl_tags /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getmax.php
+04/01/2022 01:18:15 AM  
+ SELECT MAX(price_old) as max FROM `tbl_product` /ajax/getmax.php
+04/01/2022 01:18:23 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /test.html
+04/01/2022 01:18:23 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /test.html
+04/01/2022 01:18:23 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /test.html
+04/01/2022 01:18:23 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /test.html
+04/01/2022 01:18:23 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /test.html
+04/01/2022 01:18:23 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /test.html
+04/01/2022 01:18:23 AM  
+ SELECT * FROM tbl_tags limit 3 /test.html
+04/01/2022 01:18:23 AM  
+ SELECT * FROM tbl_tags /test.html
+04/01/2022 01:18:23 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /test.html
+04/01/2022 01:18:23 AM  
+ SELECT * FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 AND id = 0 /test.html
+04/01/2022 01:18:24 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /
+04/01/2022 01:18:24 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /
+04/01/2022 01:18:24 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /
+04/01/2022 01:18:24 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /
+04/01/2022 01:18:24 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /
+04/01/2022 01:18:24 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /
+04/01/2022 01:18:24 AM  
+ SELECT * FROM tbl_tags limit 3 /
+04/01/2022 01:18:24 AM  
+ SELECT * FROM tbl_tags /
+04/01/2022 01:18:24 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /
+04/01/2022 01:18:24 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 AND `id` in(4,5,1,3,6) ORDER BY modify_time DESC /
+04/01/2022 01:18:24 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `discount` DESC limit 12 /
+04/01/2022 01:18:24 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product,contact,rate,total_rate FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `view` DESC limit 12 /
+04/01/2022 01:18:24 AM  
+ SELECT b.id,b.name,b.alias,b.price_old,b.discount,b.description,a.name as thuong_hieu FROM `tbl_product` b JOIN `tbl_manufacturer` a ON b.`manufacturer` = a.`id` WHERE b.`delete` = 0 AND b.`status` = 1 ORDER BY b.`modify_time` DESC LIMIT 1 /
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM tbl_tags /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM tbl_tags /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getProduct.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_tags` /ajax/getTag.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_manufacturer` ORDER BY id DESC /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_category` ORDER BY id DESC /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_connector` ORDER BY id DESC /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM `tbl_paper_size` ORDER BY id DESC /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT id,name,alias,price_old,discount,quantity,image,code_product FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 ORDER BY `modify_time` DESC LIMIT 5 /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT id_product,sum(quantity) as quantity FROM tbl_detail_order GROUP BY id_product ORDER BY SUM(quantity) DESC limit 12 /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM tbl_tags limit 3 /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT * FROM tbl_tags /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT id,name,alias,price_old,discount,image FROM `tbl_product` WHERE `delete` = 0 AND `status` = 1 /ajax/getmax.php
+04/01/2022 01:18:25 AM  
+ SELECT MAX(price_old) as max FROM `tbl_product` /ajax/getmax.php
